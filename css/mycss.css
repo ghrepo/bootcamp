@@ -1,0 +1,14 @@
+/*!
+ * Css personalizado
+ */
+
+ /* Tamano del logo greelogo*/
+
+ #greenlogo{
+ height: 200%;
+ padding-bottom: 38px;
+ }
+
+ .navbar-brand{
+ 	vertical-align: middle;
+ }
